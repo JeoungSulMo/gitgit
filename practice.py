@@ -10,5 +10,10 @@ def prac2():
     print('07월')
 
 
+
 def error1():
     print('에러1')
+
+def error2():
+    print('error2')
+
