@@ -9,4 +9,6 @@ def prac1():
 def prac2():
     print('07월')
 
-    
+
+def error2():
+    print('error2')
